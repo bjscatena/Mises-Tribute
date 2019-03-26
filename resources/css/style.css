@@ -57,12 +57,12 @@ section {
   flex-flow: wrap;
 }
 
-.flex-row-nr {
+.flex-row-nw {
   display: flex;
   flex-flow: row nowrap;
 }
 
-.flex-col-nr {
+.flex-col-nw {
   display: flex;
   flex-flow: column nowrap;
 }
