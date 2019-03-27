@@ -26,6 +26,7 @@ body {
   font-size: 18px;
   text-rendering: optimizeLegibility;
   overflow-x: hidden;
+  scroll-behavior: smooth;
 }
 
 /* ---------------------------------------- */
